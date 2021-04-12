@@ -1,0 +1,4 @@
+/resources/test_data/__pycache__/
+/libspecs/
+/results/*
+.project
